@@ -65,12 +65,11 @@ return passwordOptions
 
 }
 
-
-function runMyApp() {
-  passOptions();
+function getUserInputs {
+  // some function goes here
 }
 
-runMyApp();
+
 
 
 
